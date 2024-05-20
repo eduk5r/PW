@@ -1,0 +1,11 @@
+Área de Trabalho: Mais Opções: Open Git Bash Here
+	git clone https://www.github.com/eduk5r/PW
+
+Em cima da pasta: Botão Direito: Mais opções: Open Git Bash Here
+git config --global user.name "Nome"
+git config --global user.email "Email"
+git add . (Monitora todos os arquivos)
+git add nome (Monitora arquivo específico
+git status (Vê status dos arquivos)
+git commit -m "Mensagem" (Manda mensagem)
+git push (Atualiza arquivos no githun)
